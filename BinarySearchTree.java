@@ -3,7 +3,7 @@ package tree;
 import java.util.ArrayList;
 
 import estrut.Tree;
-
+//implementação do último trabalho com IA + tentativa de fazer uma arvore avl sem IA
 public class BinarySearchTree implements Tree{
     private Node root;
 
